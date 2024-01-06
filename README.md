@@ -8,7 +8,7 @@
   The first iteration of <a href="https://jodenrey.netlify.app/" target="_blank">jodenrey</a> built with React.js leveraging Material UI.
 </p>
 
-<img width="1306" alt="Screen Shot 2021-03-15 at 8 29 18 PM" src="![image](https://github.com/jodenrey/JosephPortfolio/assets/73212696/215d98ea-78d2-4487-832b-6e577aa56814)">
+<img width="1306" alt="Screen Shot 2021-03-15 at 8 29 18 PM" src="https://github.com/jodenrey/JosephPortfolio/assets/73212696/215d98ea-78d2-4487-832b-6e577aa56814">
 ## 🛠 set-up
 
 1. Install the dependencies
